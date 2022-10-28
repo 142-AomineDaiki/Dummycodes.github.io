@@ -29,7 +29,7 @@ Address:-</td></tr><tr><td><input type="text" placeholder="Enter Adress" require
 }
 </script>
 </html>
-[8:01 PM, 10/25/2022] Krishna  Yadav: <html>
+ 
 <head><title>login</title>
 </head>
 <body>
